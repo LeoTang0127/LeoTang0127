@@ -25,7 +25,7 @@
 - - 💻 **.NET / Python 雙棧（Application Layer）** — .NET 8 / Blazor Server / Clean Architecture / EF Core 8 + Python / FastAPI / OpenCV / YOLOv8 跨棧整合
   - - 🤖 **AI × 電腦視覺 × 機器人（Intelligence Layer）** — LLM 整合（OpenAI / Claude / RAG / LangChain Agent）、電腦視覺（YOLOv8 + OpenCV Homography）、機器人系統整合（UR5 TCP + Robotiq Modbus）
    
-    - 主導緯穎、上恆 SMT 智慧倉儲（WMS）從 0 到 1 導入；自主開發 robot-vision 機器手臂視覺辨識系統，作為 IWMS 下一代「視覺揀料 / 自動上下料」技術預研。
+    - 緯穎、上恆 SMT 智慧倉儲（WMS）從 0 到 1 導入；自主開發 robot-vision 機器手臂視覺辨識系統，作為 IWMS 下一代「視覺揀料 / 自動上下料」技術預研。
    
     - > 💡 **工程哲學**：能寫 .NET 也能跑 Python、能設計 Microservices 也能 TCP socket 連 PLC、能整合 LLM 也能標定相機 —— 11 年慢慢長出來的跨域整合力。
       >
